@@ -3,7 +3,7 @@
 
   "name": "Intercom Disable Tag Button",
   "description": "This extension disables de tag button on Intercom to avoid mistakes.",
-  "version": "1.0",
+  "version": "2.0",
 
   "browser_action": {
     "default_icon": {
@@ -18,7 +18,7 @@
     "persistent": false
   },
   "permissions": [
-    "https://app.intercom.io/*",
+    "https://app.intercom.com/*",
     "tabs"
   ]
 }
