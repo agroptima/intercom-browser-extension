@@ -1,5 +1,8 @@
 # Intercom Disable Tag Button
 
+- [English](#english)
+- [Castellano](#castellano)
+
 ## English
 
 This extension disables de "Tag" button on Intercom's users list to avoid mistakes.
